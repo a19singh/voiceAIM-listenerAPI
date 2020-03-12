@@ -1,0 +1,8 @@
+
+    - hosts: localhost
+      tasks:
+        - name: "Handling Service... "
+          service:
+            name: "firewalld"
+            state: "started"
+    
