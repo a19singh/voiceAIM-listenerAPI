@@ -1,9 +1,0 @@
-
-- hosts: localhost
-  tasks:
-    - name: "removing User..."
-      user:
-        name: "harry"
-        state: absent
-        remove: yes
-        
