@@ -33,3 +33,7 @@ flutter run
 ```
 
 *(Attach your device via usb and enable usb debugging)*
+
+---
+
+Check chapter 7 of the [report](https://github.com/ayedaemon/voiceAIM-listenerAPI/blob/master/report_ppt/VoiceAIM%20project%20report.pdf) for sample screenshots.
